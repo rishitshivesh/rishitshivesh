@@ -40,8 +40,9 @@ I'm Rishit! Welcome to my Github Profile.
 </p>
 
 ## Badges
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ea4cd086-2cb8-4f02-b6f3-54cf3bdaa17f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+<img src="https://www.credly.com/badges/ea4cd086-2cb8-4f02-b6f3-54cf3bdaa17f/public_url">
+</p>
 
 ## Languages and tools⚙:  
 
