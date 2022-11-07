@@ -39,6 +39,10 @@ I'm Rishit! Welcome to my Github Profile.
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
 </p>
 
+## Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ea4cd086-2cb8-4f02-b6f3-54cf3bdaa17f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Languages and tools⚙:  
 
 
