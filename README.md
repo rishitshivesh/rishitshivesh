@@ -42,6 +42,7 @@ I'm Rishit! Welcome to my Github Profile.
 ## Badges
 <p align="center">
 <img src="https://github.com/rishitshivesh/rishitshivesh/blob/main/aws-academy-graduate-aws-academy-cloud-security-foundations.png">
+  <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
 </p>
 
 ## Languages and tools⚙:  
