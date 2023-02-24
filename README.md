@@ -110,7 +110,7 @@ I'm Rishit! Welcome to my Github Profile.
 <p align="left">
   <a href="https://portfolio.rishitshivesh.co.in">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rishitshivesh&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishitshivesh&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
