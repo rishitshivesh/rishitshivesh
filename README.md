@@ -78,6 +78,7 @@ I'm Rishit! Welcome to my Github Profile.
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vue.js&logoColor=white)
 
 <br/>
 
