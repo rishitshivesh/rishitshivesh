@@ -29,6 +29,7 @@ I'm Rishit! Welcome to my Github Profile.
   </a>
 </div>
  -->
+ <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
  
 ## Most Used Languages 📚
 <br>
@@ -108,7 +109,9 @@ I'm Rishit! Welcome to my Github Profile.
 ## My Statistics
 
 <br/>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rishitshivesh"></p>
+<p align="center" style="visibility:hidden"><img src="https://komarev.com/ghpvc/?username=rishitshivesh"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/rishitshivesh/count.svg"></p>
+
 <p align="left">
   <a href="https://portfolio.rishitshivesh.co.in">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rishitshivesh&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -116,5 +119,3 @@ I'm Rishit! Welcome to my Github Profile.
   </a>
 </p>
 <br>
-
-[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishitshivesh&custom_title=Rishit%20Shivesh's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://portfolio.rishitshivesh.co.in)
