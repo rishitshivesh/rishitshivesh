@@ -109,7 +109,7 @@ I'm Rishit! Welcome to my Github Profile.
 ## My Statistics
 
 <br/>
-<p align="center" style="visibility:hidden"><img src="https://komarev.com/ghpvc/?username=rishitshivesh"></p>
+<!--<p align="center" style="visibility:hidden"><img src="https://komarev.com/ghpvc/?username=rishitshivesh"></p>-->
 <p align="center"><img src="https://profile-counter.glitch.me/rishitshivesh/count.svg"></p>
 
 <p align="left">
