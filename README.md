@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     alt="Gitfut"
     width="300"
     style={{
-      margin: 'auto'
+      align: 'centre'
     }}
   />
 </a>
