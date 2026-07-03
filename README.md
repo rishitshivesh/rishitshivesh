@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <b>Hello User! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px></b>
 </h1>
 
+[![Gitfut](https://gitfut.com/rishitshivesh.png?country=in)](https://gitfut.com/rishitshivesh?country=in)
+
 I'm Rishit! Welcome to my Github Profile.
 <br>
 
