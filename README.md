@@ -25,6 +25,9 @@ Here are some ideas to get you started:
     src="https://gitfut.com/rishitshivesh.png?country=in"
     alt="Gitfut"
     width="300"
+    style={{
+      margin: 'auto'
+    }}
   />
 </a>
 
