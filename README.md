@@ -25,7 +25,6 @@ Here are some ideas to get you started:
     src="https://gitfut.com/rishitshivesh.png?country=in"
     alt="Gitfut"
     width="300"
-    height="100"
   />
 </a>
 
