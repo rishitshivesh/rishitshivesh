@@ -1,37 +1,20 @@
-<!-- ### Hi there 👋 -->
+<div align="center">
 
-<!--
-**rishitshivesh/rishitshivesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">
-  <b>Hello User! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px></b>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14161A,50:1B2A2E,100:8FD9C4&height=200&section=header&text=Rishit%20Shivesh&fontSize=48&fontColor=EAF4F1&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://gitfut.com/rishitshivesh?country=in">
-  <p align="centre">    
-  <img
-    src="https://gitfut.com/rishitshivesh.png?country=in"
-    alt="Gitfut"
-    width="300"
-  />  
-  </p>
+  <img src="https://gitfut.com/rishitshivesh.png?country=in" alt="Gitfut" width="260"/>
 </a>
 
-I'm Rishit! Welcome to my Github Profile.
-<br>
+<br/><br/>
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=8FD9C4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+write+code+by+day%2C+songs+by+night;Ask+me+about+monorepos+or+chord+progressions" alt="Typing SVG"/>
+</a>
+
+</div>
+
+<br/>
 
 <!-- <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -39,93 +22,140 @@ I'm Rishit! Welcome to my Github Profile.
   </a>
 </div>
  -->
- <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
- 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://portfolio-backend.rishit.link/api/v1/github/repos/rishitshivesh?type=svg">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
 
-## Badges
-<p align="center">
-<img src="https://github.com/rishitshivesh/rishitshivesh/blob/main/aws-academy-graduate-aws-academy-cloud-security-foundations.png" width="150px">
-  <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="150px">
-  <img src="https://images.credly.com/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="150px">
-  <img src="https://images.credly.com/size/680x680/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="150px">
-  
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## Languages and tools⚙:  
+### 🧭 About me
 
+- 🔭 I'm currently building things that are supposed to "just work" — and mostly do
+- 🌱 Learning to make Three.js scenes run at 60fps without melting a laptop
+- 👯 Open to collaborating on anything that mixes solid engineering with a bit of craft
+- 🤔 Looking for help with naming things — genuinely, hardest problem in CS
+- 💬 Ask me about full-stack architecture, monorepos, or your stale React Query cache
+- ⚡ Fun fact: debugging code and debugging song lyrics require the same patience
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![VueJS](https://img.shields.io/badge/vuejs-black?style=for-the-badge&logo=vue.js&logoColor=white)
+<div align="center">
+
+### 📚 Most Used Languages
+
+<img src="https://portfolio-backend.rishit.link/api/v1/github/repos/rishitshivesh?type=svg"/>
+
+<sub>Reflects most-written code on GitHub, not a skill ranking 🙂</sub>
+
+</div>
 
 <br/>
 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<div align="center">
+
+### 🏅 Certifications
+
+<img src="https://github.com/rishitshivesh/rishitshivesh/blob/main/aws-academy-graduate-aws-academy-cloud-security-foundations.png" width="130px"/>
+<img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="130px"/>
+<img src="https://images.credly.com/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="130px"/>
+<img src="https://images.credly.com/size/680x680/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="130px"/>
+
+</div>
 
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+### ⚙️ Languages & Tools
+
+</div>
+
+<table align="center" width="100%">
+<tr><td align="center" width="130"><b>Languages</b></td><td align="center">
+
+![C](https://img.shields.io/badge/-C-1B2A2E?style=flat-square&logo=c&logoColor=8FD9C4)
+![C++](https://img.shields.io/badge/-C++-1B2A2E?style=flat-square&logo=cplusplus&logoColor=8FD9C4)
+![CSS3](https://img.shields.io/badge/-CSS3-1B2A2E?style=flat-square&logo=css3&logoColor=8FD9C4)
+![GraphQL](https://img.shields.io/badge/-GraphQL-1B2A2E?style=flat-square&logo=graphql&logoColor=8FD9C4)
+![HTML5](https://img.shields.io/badge/-HTML5-1B2A2E?style=flat-square&logo=html5&logoColor=8FD9C4)
+![Java](https://img.shields.io/badge/-Java-1B2A2E?style=flat-square&logo=openjdk&logoColor=8FD9C4)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1B2A2E?style=flat-square&logo=javascript&logoColor=8FD9C4)
+![Markdown](https://img.shields.io/badge/-Markdown-1B2A2E?style=flat-square&logo=markdown&logoColor=8FD9C4)
+![Python](https://img.shields.io/badge/-Python-1B2A2E?style=flat-square&logo=python&logoColor=8FD9C4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1B2A2E?style=flat-square&logo=typescript&logoColor=8FD9C4)
+
+</td></tr>
+<tr><td align="center"><b>Frameworks</b></td><td align="center">
+
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-1B2A2E?style=flat-square&logo=apollographql&logoColor=8FD9C4)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-1B2A2E?style=flat-square&logo=bootstrap&logoColor=8FD9C4)
+![Django](https://img.shields.io/badge/-Django-1B2A2E?style=flat-square&logo=django&logoColor=8FD9C4)
+![Django REST](https://img.shields.io/badge/-Django%20REST-1B2A2E?style=flat-square&logo=django&logoColor=8FD9C4)
+![Express.js](https://img.shields.io/badge/-Express.js-1B2A2E?style=flat-square&logo=express&logoColor=8FD9C4)
+![Flask](https://img.shields.io/badge/-Flask-1B2A2E?style=flat-square&logo=flask&logoColor=8FD9C4)
+![jQuery](https://img.shields.io/badge/-jQuery-1B2A2E?style=flat-square&logo=jquery&logoColor=8FD9C4)
+![NPM](https://img.shields.io/badge/-NPM-1B2A2E?style=flat-square&logo=npm&logoColor=8FD9C4)
+![Next.js](https://img.shields.io/badge/-Next.js-1B2A2E?style=flat-square&logo=next.js&logoColor=8FD9C4)
+![React](https://img.shields.io/badge/-React-1B2A2E?style=flat-square&logo=react&logoColor=8FD9C4)
+![Redux](https://img.shields.io/badge/-Redux-1B2A2E?style=flat-square&logo=redux&logoColor=8FD9C4)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1B2A2E?style=flat-square&logo=tailwindcss&logoColor=8FD9C4)
+![Three.js](https://img.shields.io/badge/-Three.js-1B2A2E?style=flat-square&logo=three.js&logoColor=8FD9C4)
+![Vue.js](https://img.shields.io/badge/-Vue.js-1B2A2E?style=flat-square&logo=vue.js&logoColor=8FD9C4)
+
+</td></tr>
+<tr><td align="center"><b>Databases</b></td><td align="center">
+
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-1B2A2E?style=flat-square&logo=amazondynamodb&logoColor=8FD9C4)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1B2A2E?style=flat-square&logo=apachecassandra&logoColor=8FD9C4)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1B2A2E?style=flat-square&logo=mongodb&logoColor=8FD9C4)
+![MySQL](https://img.shields.io/badge/-MySQL-1B2A2E?style=flat-square&logo=mysql&logoColor=8FD9C4)
+![SQLite](https://img.shields.io/badge/-SQLite-1B2A2E?style=flat-square&logo=sqlite&logoColor=8FD9C4)
+
+</td></tr>
+<tr><td align="center"><b>Cloud & Ops</b></td><td align="center">
+
+![AWS](https://img.shields.io/badge/-AWS-1B2A2E?style=flat-square&logo=amazonaws&logoColor=8FD9C4)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-1B2A2E?style=flat-square&logo=googlecloud&logoColor=8FD9C4)
+![Heroku](https://img.shields.io/badge/-Heroku-1B2A2E?style=flat-square&logo=heroku&logoColor=8FD9C4)
+![Vercel](https://img.shields.io/badge/-Vercel-1B2A2E?style=flat-square&logo=vercel&logoColor=8FD9C4)
+![Postman](https://img.shields.io/badge/-Postman-1B2A2E?style=flat-square&logo=postman&logoColor=8FD9C4)
+![Git](https://img.shields.io/badge/-Git-1B2A2E?style=flat-square&logo=git&logoColor=8FD9C4)
+
+</td></tr>
+<tr><td align="center"><b>Creative</b></td><td align="center">
+
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-1B2A2E?style=flat-square&logo=adobephotoshop&logoColor=8FD9C4)
+![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-1B2A2E?style=flat-square&logo=adobelightroom&logoColor=8FD9C4)
+![Adobe Audition](https://img.shields.io/badge/-Audition-1B2A2E?style=flat-square&logo=adobeauditon&logoColor=8FD9C4)
+
+</td></tr>
+</table>
 
 <br/>
 
+<div align="center">
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+### 📊 My Statistics
 
+<!-- <img src="https://profile-counter.glitch.me/rishitshivesh/count.svg"/> -->
 
-## My Statistics
+<br/><br/>
+
+<a href="https://rishit.co.in">
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishitshivesh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8FD9C4&icon_color=8FD9C4&text_color=EAF4F1&ring_color=8FD9C4"/> -->
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishitshivesh&hide_border=true&background=0D1117&ring=8FD9C4&fire=8FD9C4&currStreakLabel=8FD9C4&sideLabels=EAF4F1&currStreakNum=EAF4F1&sideNums=EAF4F1&dates=6B7280"/>
+</a>
+
+</div>
 
 <br/>
-<!--<p align="center" style="visibility:hidden"><img src="https://komarev.com/ghpvc/?username=rishitshivesh"></p>-->
-<p align="center"><img src="https://profile-counter.glitch.me/rishitshivesh/count.svg"></p>
 
-<p align="left">
-  <a href="https://portfolio.rishitshivesh.co.in">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rishitshivesh&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishitshivesh&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FD9C4,50:1B2A2E,100:14161A&height=100&section=footer" width="100%"/>
